@@ -43,11 +43,11 @@ Ensures users can enter coupons in any case (SAVE10, save10, Save10) without fai
 
 ## CI Pipeline (if implemented)
 - Did CI pass successfully? Yes
-- GitHub Actions Run URL: 
+- GitHub Actions Run URL: https://github.com/ath1614/jest-workshop/actions/runs/21825226856
 
 ---
 
 ## Reflection (1–2 lines)
 What is **one thing** you understood better about testing or CI after this workshop?
 
-I learned how boundary testing is crucial for catching edge cases that might cause unexpected behavior in production, especially with financial calculations.
+I learned how testing for edge cases is crucial for catching result of  cases that might cause unexpected behavior in production, especially with complex calculations.
